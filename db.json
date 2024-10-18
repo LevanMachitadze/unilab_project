@@ -1,0 +1,140 @@
+{
+  "pets": [
+    {
+      "id": "1",
+      "name": "Pomeranian White",
+      "gene": "Male",
+      "age": "02 months",
+      "price": "6,900,000 VND",
+      "image": "./assets/dog1.png",
+      "location": "Hanoi",
+      "warranty": "12 months",
+      "vaccinated": true,
+      "dewormed": true,
+      "publishedDate": "04-Oct-2023",
+      "certifications": [
+        "Veterinary certification for pet vaccination",
+        "100% guarantee of pet authenticity"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Poodle Tiny Yellow",
+      "gene": "Female",
+      "age": "02 months",
+      "price": "3,900,000 VND",
+      "image": "./assets/dog2.png",
+      "location": "Ho Chi Minh City",
+      "warranty": "12 months",
+      "vaccinated": true,
+      "dewormed": true,
+      "publishedDate": "05-Oct-2023",
+      "certifications": [
+        "Veterinary certification for pet vaccination",
+        "100% guarantee of pet authenticity"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Poodle Tiny Sepia",
+      "gene": "Male",
+      "age": "02 months",
+      "price": "4,000,000 VND",
+      "image": "./assets/dog3.png",
+      "location": "Hanoi",
+      "warranty": "12 months",
+      "vaccinated": true,
+      "dewormed": true,
+      "publishedDate": "06-Oct-2023",
+      "certifications": [
+        "Veterinary certification for pet vaccination",
+        "100% guarantee of pet authenticity"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Alaskan Malamute Grey",
+      "gene": "Male",
+      "age": "02 months",
+      "price": "8,900,000 VND",
+      "image": "./assets/dog4.png",
+      "location": "Da Nang",
+      "warranty": "12 months",
+      "vaccinated": true,
+      "dewormed": true,
+      "publishedDate": "07-Oct-2023",
+      "certifications": [
+        "Veterinary certification for pet vaccination",
+        "100% guarantee of pet authenticity"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Pembroke Corgi Cream",
+      "gene": "Male",
+      "age": "02 months",
+      "price": "7,900,000 VND",
+      "image": "./assets/dog5.png",
+      "location": "Hanoi",
+      "warranty": "12 months",
+      "vaccinated": true,
+      "dewormed": true,
+      "publishedDate": "08-Oct-2023",
+      "certifications": [
+        "Veterinary certification for pet vaccination",
+        "100% guarantee of pet authenticity"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Pembroke Corgi Tricolor",
+      "gene": "Male",
+      "age": "02 months",
+      "price": "9,000,000 VND",
+      "image": "./assets/dog6.png",
+      "location": "Ho Chi Minh City",
+      "warranty": "12 months",
+      "vaccinated": true,
+      "dewormed": true,
+      "publishedDate": "09-Oct-2023",
+      "certifications": [
+        "Veterinary certification for pet vaccination",
+        "100% guarantee of pet authenticity"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Pomeranian White",
+      "gene": "Female",
+      "age": "02 months",
+      "price": "6,500,000 VND",
+      "image": "./assets/dog7.png",
+      "location": "Da Nang",
+      "warranty": "12 months",
+      "vaccinated": true,
+      "dewormed": true,
+      "publishedDate": "10-Oct-2023",
+      "certifications": [
+        "Veterinary certification for pet vaccination",
+        "100% guarantee of pet authenticity"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Poodle Tiny Dairy Cow",
+      "gene": "Male",
+      "age": "02 months",
+      "price": "5,000,000 VND",
+      "image": "./assets/dog8.png",
+      "location": "Hanoi",
+      "warranty": "12 months",
+      "vaccinated": true,
+      "dewormed": true,
+      "publishedDate": "11-Oct-2023",
+      "certifications": [
+        "Veterinary certification for pet vaccination",
+        "100% guarantee of pet authenticity"
+      ]
+    }
+  ]
+}

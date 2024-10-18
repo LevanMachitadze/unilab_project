@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Reflex Plus Adult Cat Food Salmon",
+      "price": "350.000 VND",
+      "image": "product1.png",
+      "category": "Dog Food",
+      "size": "385gm"
+    },
+    {
+      "id": 2,
+      "name": "Reflex Plus Adult Cat Food Chicken",
+      "price": "300.000 VND",
+      "image": "product2.png",
+      "category": "Cat Food",
+      "size": "1.5kg"
+    },
+    {
+      "id": 3,
+      "name": "Cat Scratching Ball Toy Kitten",
+      "price": "200.000 VND",
+      "image": "product3.png",
+      "category": "toy",
+      "size": ""
+    },
+    {
+      "id": 4,
+      "name": "Cute Pet Cat Warm Nest",
+      "price": "450.000 VND",
+      "image": "product4.png",
+      "category": "toy",
+      "size": ""
+    },
+    {
+      "id": 5,
+      "name": "NatureVet Dogs Omega-Gold Plus Salmon Oil",
+      "price": "500.000 VND",
+      "image": "product5.png",
+      "category": "Dog Food",
+      "size": "385gm"
+    },
+    {
+      "id": 6,
+      "name": "Costume Fashion Pet Clothes Cowboy Rider",
+      "price": "600.000 VND",
+      "image": "product6.png",
+      "product": "Costume",
+      "size": "1.5kg"
+    },
+    {
+      "id": 7,
+      "name": "Costume Chicken Drumstick Headband",
+      "price": "100.000 VND",
+      "image": "product7.png",
+      "category": "Costume",
+      "size": ""
+    },
+    {
+      "id": 8,
+      "name": "Plush Pet Toy",
+      "price": "150.000 VND",
+      "image": "product8.png",
+      "category": "Toy",
+      "size": ""
+    }
+  ]
+}
