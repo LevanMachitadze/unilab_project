@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import React from 'react';
 import translateIcon from '../assets/Frame (1).svg';
-import logo from '../assets/Logo.png';
+import logo from '../assets/logo.png';
 
 const Header = () => {
   const [arrow, setArrow] = useState(true);
