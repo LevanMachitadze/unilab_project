@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Pomeranian White",
-      "gene": "Male",
+      "gender": "Male",
       "age": "02 months",
       "price": "6,900,000 VND",
       "image": "./assets/dog1.png",
@@ -20,7 +20,7 @@
     {
       "id": "2",
       "name": "Poodle Tiny Yellow",
-      "gene": "Female",
+      "gender": "Female",
       "age": "02 months",
       "price": "3,900,000 VND",
       "image": "./assets/dog2.png",
@@ -37,7 +37,7 @@
     {
       "id": "3",
       "name": "Poodle Tiny Sepia",
-      "gene": "Male",
+      "gender": "Male",
       "age": "02 months",
       "price": "4,000,000 VND",
       "image": "./assets/dog3.png",
@@ -54,7 +54,7 @@
     {
       "id": "4",
       "name": "Alaskan Malamute Grey",
-      "gene": "Male",
+      "gender": "Male",
       "age": "02 months",
       "price": "8,900,000 VND",
       "image": "./assets/dog4.png",
@@ -71,7 +71,7 @@
     {
       "id": "5",
       "name": "Pembroke Corgi Cream",
-      "gene": "Male",
+      "gender": "Male",
       "age": "02 months",
       "price": "7,900,000 VND",
       "image": "./assets/dog5.png",
@@ -88,7 +88,7 @@
     {
       "id": "6",
       "name": "Pembroke Corgi Tricolor",
-      "gene": "Male",
+      "gender": "Male",
       "age": "02 months",
       "price": "9,000,000 VND",
       "image": "./assets/dog6.png",
@@ -105,7 +105,7 @@
     {
       "id": "7",
       "name": "Pomeranian White",
-      "gene": "Female",
+      "gender": "Female",
       "age": "02 months",
       "price": "6,500,000 VND",
       "image": "./assets/dog7.png",
@@ -122,7 +122,7 @@
     {
       "id": "8",
       "name": "Poodle Tiny Dairy Cow",
-      "gene": "Male",
+      "gender": "Male",
       "age": "02 months",
       "price": "5,000,000 VND",
       "image": "./assets/dog8.png",
